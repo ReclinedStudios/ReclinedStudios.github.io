@@ -1,0 +1,6 @@
+:root { color-scheme: light dark; font-family: "Segoe UI", system-ui, sans-serif; line-height: 1.6; }
+main { max-width: 38rem; margin: clamp(2rem, 9vw, 6rem) auto; padding: 0 1.25rem; }
+h1, h2 { line-height: 1.2; }
+dt { font-weight: 700; }
+dd { margin: 0 0 0.75rem; }
+footer { border-top: 1px solid GrayText; margin-top: 2rem; padding-top: 1rem; }
